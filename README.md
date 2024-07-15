@@ -24,7 +24,7 @@ Exper is a revolutionary platform leveraging community-curated AI models and dep
    ```
 
 2. Set up environment variables:
-   - Create a `.env` file in the root directory.
+   - Go to the .env.test file
    - Add necessary environment variables (e.g., API keys, configuration settings).
 
 3. Start the development server:
