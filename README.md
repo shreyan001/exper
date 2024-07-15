@@ -63,7 +63,8 @@ Exper leverages expert community-curated AI models to address the complexities o
 4. **Knowledge Management and Transfer:**
    - Enhances knowledge management practices for effective transfer within organizations.
 
-## Visual Flowchart Generator
+## Visual Flowchart 
+![image (1)](https://github.com/user-attachments/assets/07cb66d5-b429-40ab-877c-595ed5026bfe)
 
 ### User POV:
 
